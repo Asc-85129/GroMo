@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+twilio
+websockets
+openai
+httpx
+python-dotenv
+aiohttp
